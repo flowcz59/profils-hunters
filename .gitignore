@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.env
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Données temporaires / snapshots (régénérés automatiquement)
+snapshot_profils.json
+
+# Excel — contiennent des données personnelles, à ne pas versionner publiquement
+# Commenter ces lignes si tu veux les inclure dans le repo privé
+# profils_cobol_java_nord.xlsx
+# profils_cobol_java_lille.xlsx
+# nouveaux_profils.xlsx
+
+# Éditeurs
+.vscode/settings.json
+*.swp
+*.swo
